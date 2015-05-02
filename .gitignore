@@ -1,2 +1,4 @@
 .idea
 *.pyc
+WebUI/app/bower_components
+WebUI/node_modules
